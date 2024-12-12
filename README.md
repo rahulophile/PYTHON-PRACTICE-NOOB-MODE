@@ -74,9 +74,9 @@ I’m always looking to improve my skills and the quality of this repo. If you h
 ---
 
 ## **🏆 Acknowledgements**
-*** OpenAI's ChatGPT :** Guidance and explanations on concepts and best practices.
+* **OpenAI's ChatGPT :** Guidance and explanations on concepts and best practices.
 
-*** Community Resources :** Online courses, coding platforms, and tutorials that have helped me along the way.
+* **Community Resources :** Online courses, coding platforms, and tutorials that have helped me along the way.
 
 ---
 
