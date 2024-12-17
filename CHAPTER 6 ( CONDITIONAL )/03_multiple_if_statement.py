@@ -1,12 +1,16 @@
 age = int(input("Enter your age : "))
-#
-if (age>10) :
-    print("Your age is 10")
-if (age>20) :
-    print("Your age is 20")   
-if (age>30) :
-    print("Your age is 30")
-if (age>50) :
-    print("Your age is 50")
+
+#If statement - 1
+if (age%2 ==0) :
+    print("Your are in even phase of age.")
+#here if s-1 ended
+
+#If statement - 2 
+if(age<=0) :
+    print("Your are either zero or wrong age detected")  
+elif(age>=18) :
+    print("You are 18+")
 else :
-    print("else chala")    
+    print("You are below 18")
+#end of s-2    
+print("End of code")        
