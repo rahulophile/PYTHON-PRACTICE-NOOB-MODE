@@ -12,9 +12,9 @@
 # lets solve this via recursion
 
 def pattern(n):
-        if (n==1) :
-            return "*"
+        if (n==0) :
+            return  #sirf return likhne ka mtlb ab aage nahi chalega yahi se baher ho jao
         else :
             print("*" * n)
             return pattern(n-1)
-print(pattern(3))        
+pattern(3)        
